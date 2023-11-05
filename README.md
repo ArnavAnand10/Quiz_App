@@ -53,4 +53,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you encounter any issues or have feedback, please create an issue on the GitHub repository. We appreciate your input and will work to address any problems promptly.
 
-Start managing your quizzes and assessing student knowledge with the QuizMe App today!
+Start managing your quizzes and assessing student knowledge with the Quizzoo App today!
