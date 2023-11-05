@@ -1,10 +1,8 @@
-Here's a GitHub description text for a quiz app built using MongoDB, Express, Node.js, and EJS templating, where users can create quizzes and share unique quiz codes with students:
 
----
 
 **Quizzoo App**
 
-The QuizMe App is a web-based quiz management system that allows educators and quiz creators to easily create and share quizzes with students. This application is built on the MEEN (MongoDB, Express, EJS, Node.js) stack, providing a robust and scalable solution for managing quizzes and assessing student knowledge.
+The Quizzoo App is a web-based quiz management system that allows educators and quiz creators to easily create and share quizzes with students. This application is built on the MEEN (MongoDB, Express, EJS, Node.js) stack, 
 
 **Features:**
 
@@ -49,9 +47,7 @@ We welcome contributions to enhance and expand the QuizMe App. If you have ideas
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-**Demo:**
 
-A live demo of the QuizMe App is available at [https://quizme-app-demo.com](https://quizme-app-demo.com).
 
 **Feedback and Issues:**
 
